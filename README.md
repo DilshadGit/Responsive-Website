@@ -1,0 +1,1 @@
+This website is created only for training used HTML5 CSS
